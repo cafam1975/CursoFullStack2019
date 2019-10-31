@@ -1,0 +1,73 @@
+﻿/*Estilos para ellipse manejo defs las Interfaces*/
+
+/*Desplazar controles hacia abajo Login*/
+.desplazarAbajoLogin {
+    margin-top: 6%;
+}
+
+/*Desplazar controles hacia abajo Footer*/
+.desplazarAbajoFooter {
+    margin-top: 8%;
+}
+
+.quitarScroll {
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+
+.usuarioLogin {
+    color: yellow !important;
+    font-size: 12px;
+    padding-top: 33px !important;
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+}
+
+.menuLogin {
+    color: white !important;
+    font-size: 12px !important;
+}
+
+.posicionInterfaz {
+    margin: 0% !important;
+    padding: 0% !important;
+    padding-bottom: 120px !important;
+}
+
+.sinPadding {
+    margin: 0 !important;
+    padding : 0 !important;
+}
+
+.interfazEncabezadoLogin {
+    background-color:darkblue;
+    border: 2px;
+    color:white !important;
+}
+
+.interfazBodyLogin {
+    background-color: #EEEEEE;
+    border: 4px;
+}
+
+.interfazControlLogin {
+    padding-left:10px;
+}
+
+.botonInterfazLogin {
+    margin-left: 10px!important;
+    padding-left:20px!important;
+    width: 99%!important;
+}
+
+.itemMenu {
+    padding-left: 5px !important;
+}
+
+.MensajeError {
+    color:red;
+}
+
+.MensajeErrorAlignearIzq {
+    float: left;
+}
