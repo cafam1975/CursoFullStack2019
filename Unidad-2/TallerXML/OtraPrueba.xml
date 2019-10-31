@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<producto>
+    <item categoria="Alimentos">
+        <nombre>Papas</nombre>
+    </item>
+     <item categoria="Carnes">
+        <nombre>Chorizo</nombre>
+    </item>
+</producto>
